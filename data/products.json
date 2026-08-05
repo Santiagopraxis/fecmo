@@ -1,0 +1,2083 @@
+[
+  {
+    "id": "asadores-y-parrillas--asador-de-arepas",
+    "slug": "asador-de-arepas",
+    "title": "ASADOR DE AREPAS",
+    "category": "Asadores y Parrillas",
+    "categorySlug": "asadores-y-parrillas",
+    "price": 2200000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "HR Y ACERO INOXIDABLE 430, CALIBRE 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "ACCESORIOS": "BANDEJA CENICERA Y BANDEJA AUXULIAR",
+      "MEDIDAS": "100CM X 50CM X 89CM BANDEJA AUXULIAR: 25CM X 50CM BODEGA: 97CM X 43CM PARRILLA: 83CM X 41CM",
+      "GARANTIA": "UN AÑO POR DEFECTOS DE FABRICACIÓN Y SOLDADURA Y TRES MESES EN LAS VÁLVULAS",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/asadores-y-parrillas/asador-de-arepas-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO ASADORES Y PARRILLA.pdf"
+  },
+  {
+    "id": "asadores-y-parrillas--asador-mixto",
+    "slug": "asador-mixto",
+    "title": "ASADOR MIXTO",
+    "category": "Asadores y Parrillas",
+    "categorySlug": "asadores-y-parrillas",
+    "price": 2200000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO EN ACERO INOXIDABLE 430, CALIBRE 22",
+      "COMBUSTIBLE": "CARBÓN",
+      "MEDIDAS": "93CM X 53CM",
+      "GARANTIA": "1 AÑO",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/asadores-y-parrillas/asador-mixto-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO ASADORES Y PARRILLA.pdf"
+  },
+  {
+    "id": "asadores-y-parrillas--parrilla",
+    "slug": "parrilla",
+    "title": "PARRILLA",
+    "category": "Asadores y Parrillas",
+    "categorySlug": "asadores-y-parrillas",
+    "price": 2200000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO EN ACERO INOXIDABLE 430, CALIBRE 22",
+      "ACCESORIOS": "LLANTAS DE GOMA",
+      "MEDIDAS": "58.5CM X 53.3CM",
+      "GARANTIA": "1 AÑO",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/asadores-y-parrillas/parrilla-1.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "CATALOGO ASADORES Y PARRILLA.pdf"
+  },
+  {
+    "id": "bandejas--bandejas-convencionales",
+    "slug": "bandejas-convencionales",
+    "title": "BANDEJAS CONVENCIONALES",
+    "category": "Bandejas",
+    "categorySlug": "bandejas",
+    "price": null,
+    "priceVariants": {
+      "B1": 60000,
+      "B2": 50000,
+      "B3": 45000
+    },
+    "specs": {
+      "MATERIALES": "ALUMINIO",
+      "MEDIDAS": "BANDEJA 1 85CM X 45CM BANDEJA 2 65CM X 45 CM BANDEJA 3 33CM X 45 CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "ACCESORIOS"
+    },
+    "images": [
+      "/products/bandejas/bandejas-convencionales-1.webp",
+      "/products/bandejas/bandejas-convencionales-2.webp",
+      "/products/bandejas/bandejas-convencionales-3.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO BANDEJAS.pdf"
+  },
+  {
+    "id": "bandejas--bandeja-perforada",
+    "slug": "bandeja-perforada",
+    "title": "BANDEJA PERFORADA",
+    "category": "Bandejas",
+    "categorySlug": "bandejas",
+    "price": null,
+    "priceVariants": {
+      "B1": 70000
+    },
+    "specs": {
+      "MATERIALES": "ACERO 304 CAL. 22",
+      "MEDIDAS": "65CM X 45 CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "ACCESORIOS"
+    },
+    "images": [
+      "/products/bandejas/bandeja-perforada-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO BANDEJAS.pdf"
+  },
+  {
+    "id": "bandejas--bandeja-en-acero",
+    "slug": "bandeja-en-acero",
+    "title": "BANDEJA EN ACERO",
+    "category": "Bandejas",
+    "categorySlug": "bandejas",
+    "price": null,
+    "priceVariants": {
+      "B1": 80000
+    },
+    "specs": {
+      "MATERIALES": "ACERO 430 CAL. 22",
+      "MEDIDAS": "65CM X 45 CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "ACCESORIOS"
+    },
+    "images": [
+      "/products/bandejas/bandeja-en-acero-1.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "CATALOGO BANDEJAS.pdf"
+  },
+  {
+    "id": "basculas--bascula-digital-inalambrica",
+    "slug": "bascula-digital-inalambrica",
+    "title": "BASCULA DIGITAL INALAMBRICA",
+    "category": "Básculas",
+    "categorySlug": "basculas",
+    "price": 500000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL. 22",
+      "ENERGIA": "110 V. RECARGABLE",
+      "CAPACIDAD": "200 K.",
+      "MEDIDAS": "55 CM X 40 CM X 25 CM",
+      "GARANTIA": "1 AÑO",
+      "COLOR": "CROMADA",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/basculas/bascula-digital-inalambrica-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO BASCULAS.pdf"
+  },
+  {
+    "id": "basculas--bascula-digital-inalambrica-2",
+    "slug": "bascula-digital-inalambrica-2",
+    "title": "BASCULA DIGITAL INALAMBRICA",
+    "category": "Básculas",
+    "categorySlug": "basculas",
+    "price": 600000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL. 22",
+      "ENERGIA": "110 V. RECARGABLE",
+      "CAPACIDAD": "300 K.",
+      "MEDIDAS": "55 CM X 40 CM X 25 CM",
+      "GARANTIA": "1 AÑO",
+      "COLOR": "CROMADA",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/basculas/bascula-digital-inalambrica-2-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO BASCULAS.pdf"
+  },
+  {
+    "id": "basculas--bascula-de-plataforma",
+    "slug": "bascula-de-plataforma",
+    "title": "BASCULA DE PLATAFORMA",
+    "category": "Básculas",
+    "categorySlug": "basculas",
+    "price": 400000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "HR Y ACERO INOXIDABLE",
+      "ENERGIA": "110 V",
+      "CAPACIDAD": "200 Kg",
+      "TABLERO": "DIGITAL",
+      "MEDIDAS": "29.5CM X 40CM",
+      "GARANTIA": "1 AÑO",
+      "COLOR": "AZUL (PINTURA ELECTRO ESTATICA)",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/basculas/bascula-de-plataforma-1.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "CATALOGO BASCULAS.pdf"
+  },
+  {
+    "id": "cuartos-de-crecimiento--cuarto-de-crecimiento",
+    "slug": "cuarto-de-crecimiento",
+    "title": "CUARTO DE CRECIMIENTO",
+    "category": "Cuartos de Crecimiento",
+    "categorySlug": "cuartos-de-crecimiento",
+    "price": 1500000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22 Y VIDRIO TEMPLADO DE 6 ML",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "1 FLAUTA Y 1 VALVULA",
+      "CAPACIDAD": "12 BANDEJAS CORTAS",
+      "MEDIDAS": "59CM X 176CM X 69CM",
+      "ACCESORIOS": "LLANTAS EN GOMA",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/cuartos-de-crecimiento/cuarto-de-crecimiento-1.webp",
+      "/products/cuartos-de-crecimiento/cuarto-de-crecimiento-2.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO CUARTOS DE CRECIMIENTO.pdf"
+  },
+  {
+    "id": "cuartos-de-crecimiento--cuarto-de-crecimiento-2",
+    "slug": "cuarto-de-crecimiento-2",
+    "title": "CUARTO DE CRECIMIENTO",
+    "category": "Cuartos de Crecimiento",
+    "categorySlug": "cuartos-de-crecimiento",
+    "price": 1750000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22 Y VIDRIO TEMPLADO DE 6 ML",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "1 FLAUTA Y 1 VALVULA",
+      "CAPACIDAD": "12 BANDEJAS LARGAS",
+      "MEDIDAS": "59CM X 176CM X 90CM",
+      "ACCESORIOS": "LLANTAS EN GOMA",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/cuartos-de-crecimiento/cuarto-de-crecimiento-2-1.webp",
+      "/products/cuartos-de-crecimiento/cuarto-de-crecimiento-2-2.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO CUARTOS DE CRECIMIENTO.pdf"
+  },
+  {
+    "id": "deshidratadores--deshidratador",
+    "slug": "deshidratador",
+    "title": "DESHIDRATADOR",
+    "category": "Deshidratadores",
+    "categorySlug": "deshidratadores",
+    "price": 5500000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "3 FLAUTAS",
+      "MEDIDAS": "64 CM X 80 CM X 178.5 CM",
+      "CAPACIDAD": "12 BANDEJAS",
+      "ACCESORIOS": "ESCABILADERO Y BASE",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/deshidratadores/deshidratador-1.webp",
+      "/products/deshidratadores/deshidratador-2.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO DE DESHIDRATADORES.pdf"
+  },
+  {
+    "id": "estufas--estufa-tamalera",
+    "slug": "estufa-tamalera",
+    "title": "ESTUFA TAMALERA",
+    "category": "Estufas",
+    "categorySlug": "estufas",
+    "price": 400000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "HR Y ACERO INOXIDABLE 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "1 QUEMADOR ATORNILLADO EN ALUMINIO",
+      "MEDIDAS": "51 CM X 53 CM X 49 CM",
+      "ACCESORIOS": "BANDEJA DE RESIDUOS",
+      "COLOR": "GRIS CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/estufas/estufa-tamalera-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO ESTUFAS.pdf"
+  },
+  {
+    "id": "estufas--estufa-4-servicios",
+    "slug": "estufa-4-servicios",
+    "title": "ESTUFA 4 SERVICIOS",
+    "category": "Estufas",
+    "categorySlug": "estufas",
+    "price": 1800000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "4 PUESTOS CHOCOLATEROS ATORNILLADOS EN ALUMINIO Y VALVULAS DE SEGURIDAD CON PERILLAS DE LUJO CROMADAS.",
+      "MEDIDAS": "71 CM X 70.5 CM X 97.5 CM",
+      "ACCESORIOS": "BANDEJA DE RESIDUOS",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/estufas/estufa-4-servicios-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO ESTUFAS.pdf"
+  },
+  {
+    "id": "estufas--estufa-multi-funcional",
+    "slug": "estufa-multi-funcional",
+    "title": "ESTUFA MULTI FUNCIONAL",
+    "category": "Estufas",
+    "categorySlug": "estufas",
+    "price": 2400000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "2 PUESTOS ATORNILLADOS EN ALUMINIO Y 4 VALVULAS DE SEGURIDAD CON PERILLAS DE LUJO CROMADAS.",
+      "MEDIDAS GENERALES": "105 CM X 60 CM X 90.5 CM FREIDORA: 24.5 CM X 49 CM X 14 CM PLANCHA: 39.5 CM X 49.5 CM",
+      "ACCESORIOS": "BANDEJA DE ALUMINIO",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/estufas/estufa-multi-funcional-1.webp"
+    ],
+    "sourcePage": 5,
+    "sourceFile": "CATALOGO ESTUFAS.pdf"
+  },
+  {
+    "id": "estufas--estufa-multi-funcional-2",
+    "slug": "estufa-multi-funcional-2",
+    "title": "ESTUFA MULTI FUNCIONAL",
+    "category": "Estufas",
+    "categorySlug": "estufas",
+    "price": 2800000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "MEDIDAS GENERALES": "155 CM X60 CM X 90.5 CM. FREIDORA: 24.5 CM X 49.5 CM. PLANCHA: 49.5 CM X 50 CM.",
+      "QUEMADORES": "1 PUESTO GRANDE ATORNILLADO EN ALUMINIO. 2 PUESTO GRANDE ATORNILLADO EN ALUMINIO Y 6 VALVULAS DE SEGURIDAD CON PERILLAS DE LUJO CROMADAS.",
+      "ACCESORIOS": "BANDEJA DE RESIDUOS",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/estufas/estufa-multi-funcional-2-1.webp"
+    ],
+    "sourcePage": 6,
+    "sourceFile": "CATALOGO ESTUFAS.pdf"
+  },
+  {
+    "id": "estufas--estufa-con-horno",
+    "slug": "estufa-con-horno",
+    "title": "ESTUFA CON HORNO",
+    "category": "Estufas",
+    "categorySlug": "estufas",
+    "price": 5800000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO",
+      "COMBUSTIBLE": "MULTIGAS (ENTRADAS DE GAS POR EL LADO IZQ. Y DCHO.)",
+      "QUEMADORES": "6 PUESTOS Q25 EN ALUMINIO CON 7 VALVULAS DE SEGURIDAD CON PERILLAS DE LUJO.",
+      "MEDIDAS GENERALES": "100 CM X 71.5 CM X 90 CM HORNO: INTERNAS 85 CM X 62 CM X 24.5 CM Y EXTERNAS 87.2 CM X 29 CM",
+      "ACCESORIOS": "BANDEJA DE ALUMINIO DE 85 X 45",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/estufas/estufa-con-horno-1.webp"
+    ],
+    "sourcePage": 8,
+    "sourceFile": "CATALOGO ESTUFAS.pdf"
+  },
+  {
+    "id": "fogones-de-lena--fogon-de-lena",
+    "slug": "fogon-de-lena",
+    "title": "FOGÓN DE LEÑA",
+    "category": "Fogones de Leña",
+    "categorySlug": "fogones-de-lena",
+    "price": 1800000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "HR CON CONCRETO FIGURADO EN LADRILLO",
+      "FOGONES": "2",
+      "MEDIDAS": "78.5CM X 48.5CM X 80CM BRAZERO CON PARRILLA: 30.5CM X 45.5CM CHIMENEA: 102 CM",
+      "COLOR": "NEGRO",
+      "CATEGORIA": "MUEBLE"
+    },
+    "images": [
+      "/products/fogones-de-lena/fogon-de-lena-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO FOGONES DE LEÑA.pdf"
+  },
+  {
+    "id": "fogones-de-lena--fogon-de-lena-2",
+    "slug": "fogon-de-lena-2",
+    "title": "FOGÓN DE LEÑA",
+    "category": "Fogones de Leña",
+    "categorySlug": "fogones-de-lena",
+    "price": 3200000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "HR CON CONCRETO FIGURADO EN LADRILLO",
+      "FOGONES": "3 (1 GRANDE, 1 MEDIANO Y 1 PEQUEÑO)",
+      "MEDIDAS": "125CM X 65CM X 83CM BRAZERO CON PARRILLA: 36CM X 53.5CM CHIMENEA: 108 CM",
+      "COLOR": "NEGRO",
+      "CATEGORIA": "MUEBLE"
+    },
+    "images": [
+      "/products/fogones-de-lena/fogon-de-lena-2-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO FOGONES DE LEÑA.pdf"
+  },
+  {
+    "id": "fogones-de-lena--fogon-de-lena-3",
+    "slug": "fogon-de-lena-3",
+    "title": "FOGÓN DE LEÑA",
+    "category": "Fogones de Leña",
+    "categorySlug": "fogones-de-lena",
+    "price": 3200000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "HR CON CONCRETO FIGURADO EN LADRILLO",
+      "FOGONES": "4",
+      "MEDIDAS": "85.5CM X 69.5CM X 80CM BRAZERO CON PARRILLA:29CM X 69CM CHIMENEA: 128 CM",
+      "COLOR": "NEGRO",
+      "CATEGORIA": "MUEBLE"
+    },
+    "images": [
+      "/products/fogones-de-lena/fogon-de-lena-3-1.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "CATALOGO FOGONES DE LEÑA.pdf"
+  },
+  {
+    "id": "fogones-de-lena--fogon-de-lena-4",
+    "slug": "fogon-de-lena-4",
+    "title": "FOGÓN DE LEÑA",
+    "category": "Fogones de Leña",
+    "categorySlug": "fogones-de-lena",
+    "price": 3800000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "HR CON CONCRETO FIGURADO EN LADRILLO",
+      "FOGONES": "4",
+      "MEDIDAS": "110CM X 80CM X 88CM plancha:18.5CM X 53.5CM CHIMENEA: 112CM",
+      "COLOR": "NEGRO",
+      "CATEGORIA": "MUEBLE"
+    },
+    "images": [
+      "/products/fogones-de-lena/fogon-de-lena-4-1.webp"
+    ],
+    "sourcePage": 5,
+    "sourceFile": "CATALOGO FOGONES DE LEÑA.pdf"
+  },
+  {
+    "id": "freidoras--freidora-convencional",
+    "slug": "freidora-convencional",
+    "title": "FREIDORA CONVENCIONAL",
+    "category": "Freidoras",
+    "categorySlug": "freidoras",
+    "price": 1500000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 20",
+      "COMBUSTIBLE": "MULTI GAS",
+      "QUEMADORES": "2 FLAUTAS",
+      "CAPACIDAD": "15 LT",
+      "ACCESORIOS": "LLANTAS DE GOMA CON SEGURO Y TAPA EN ACERO",
+      "MEDIDAS": "INTERNAS: 45 CM X 40 CM X 20 CM. EXTERNAS: 61 CM X 50 CM X 90 CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/freidoras/freidora-convencional-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO FREIDORAS.pdf"
+  },
+  {
+    "id": "freidoras--freidora-fp",
+    "slug": "freidora-fp",
+    "title": "FREIDORA FP",
+    "category": "Freidoras",
+    "categorySlug": "freidoras",
+    "price": 4400000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL. 18",
+      "COMBUSTIBLE": "GAS PROPANO",
+      "QUEMADORES": "3 TIPO TUNEL EN HR",
+      "ACCESORIOS": "CANASTILLAS EN ACERO",
+      "MEDIDAS": "65CM X 60CM X 85CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/freidoras/freidora-fp-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO FREIDORAS.pdf"
+  },
+  {
+    "id": "freidoras--freidora",
+    "slug": "freidora",
+    "title": "FREIDORA",
+    "category": "Freidoras",
+    "categorySlug": "freidoras",
+    "price": null,
+    "priceVariants": {
+      "$ 2.700.000": null
+    },
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL. 18",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "3 BASTAGOS",
+      "CAPACIDAD": "30 LT",
+      "MEDIDAS": "48CM X 72.5CM X 115.5CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO",
+      "ACCESORIOS": "CANASTILLAS EN ACERO Y RELOJ DE TEMPERATURA"
+    },
+    "images": [
+      "/products/freidoras/freidora-1.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "CATALOGO FREIDORAS.pdf"
+  },
+  {
+    "id": "freidoras--freidora-gas-fryer",
+    "slug": "freidora-gas-fryer",
+    "title": "FREIDORA GAS FRYER",
+    "category": "Freidoras",
+    "categorySlug": "freidoras",
+    "price": 5000000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL. 18",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "4 BASTAGOS",
+      "CAPACIDAD": "36 LT",
+      "MEDIDAS": "48CM X 72.5CM X 115.5CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO",
+      "ACCESORIOS": "CANASTILLAS EN ACERO Y TERMOSTATO AUTOMATICO"
+    },
+    "images": [
+      "/products/freidoras/freidora-gas-fryer-1.webp"
+    ],
+    "sourcePage": 5,
+    "sourceFile": "CATALOGO FREIDORAS.pdf"
+  },
+  {
+    "id": "freidoras--freidora-gas-fryer-2",
+    "slug": "freidora-gas-fryer-2",
+    "title": "FREIDORA GAS FRYER",
+    "category": "Freidoras",
+    "categorySlug": "freidoras",
+    "price": 220000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22",
+      "COMBUSTIBLE": "GAS PROPANO",
+      "QUEMADORES": "1 Q25 ATORNILLADO",
+      "CAPACIDAD": "1 LT",
+      "MEDIDAS": "52CM X 35CM X 38CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/freidoras/freidora-gas-fryer-2-1.webp"
+    ],
+    "sourcePage": 6,
+    "sourceFile": "CATALOGO FREIDORAS.pdf"
+  },
+  {
+    "id": "freidoras--carro-para-papas",
+    "slug": "carro-para-papas",
+    "title": "CARRO PARA PAPAS",
+    "category": "Freidoras",
+    "categorySlug": "freidoras",
+    "price": null,
+    "priceVariants": {
+      "$ 2.700.000": null
+    },
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "MEDIDAS": "133CM X 54CM X 89CM VITRINA: 41.5CM X 45CM X 45CM TOTAL ALTO: 135CM",
+      "CONTIENE": "BASE PARA EL COMBUSTIBLE Y UNA BODEGA, LLANTAS INDUSTRIALES",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/freidoras/carro-para-papas-1.webp",
+      "/products/freidoras/carro-para-papas-2.webp"
+    ],
+    "sourcePage": 7,
+    "sourceFile": "CATALOGO FREIDORAS.pdf"
+  },
+  {
+    "id": "hornos-lechoneros--horno-lechonero",
+    "slug": "horno-lechonero",
+    "title": "HORNO LECHONERO",
+    "category": "Hornos Lechoneros",
+    "categorySlug": "hornos-lechoneros",
+    "price": null,
+    "priceVariants": {
+      "SIN": 1800000,
+      "BANDEJAS": null,
+      "CON": 2100000
+    },
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22",
+      "COMBUSTIBLE": "MULTI GAS",
+      "QUEMADORES": "3 FLAUTAS, 1 ACUMULADOR Y 1 VALVULA",
+      "CAPACIDAD": "1 BANDEJA DE 45 CM X 110 CM",
+      "MEDIDAS": "INTERNAS: 45 CM X 110CM X 40 CM. EXTERNAS: 60 CM X 120 CM X 110 CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO",
+      "ACCESORIOS": "LLANTAS DE GOMA CON SEGURO, RELOJ DE TEMPERATURA"
+    },
+    "images": [
+      "/products/hornos-lechoneros/horno-lechonero-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO HORNOS LECHONEROS.pdf"
+  },
+  {
+    "id": "hornos-lechoneros--horno-lechonero-2",
+    "slug": "horno-lechonero-2",
+    "title": "HORNO LECHONERO",
+    "category": "Hornos Lechoneros",
+    "categorySlug": "hornos-lechoneros",
+    "price": null,
+    "priceVariants": {
+      "SIN": 1600000,
+      "BANDEJAS": null,
+      "CON": 1900000
+    },
+    "specs": {
+      "MATERIALES": "HR Y ACERO INOXIDABLE 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "2 FLAUTAS, 1 ACUMULADOR Y 1 VALVULA",
+      "CAPACIDAD": "1 BANDEJA",
+      "MEDIDAS": "INTERNAS: 45 CM X 110CM X 40 CM. EXTERNAS: 60 CM X 120 CM X 110 CM",
+      "COLOR": "GRIS CROMADO (PINTURA DE ALTA TEMPERATURA)",
+      "CATEGORIA": "EQUIPO",
+      "ACCESORIOS": "RELOJ DE TEMPERATURA Y LLANTAS DE GOMA CON SEGURO"
+    },
+    "images": [
+      "/products/hornos-lechoneros/horno-lechonero-2-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO HORNOS LECHONEROS.pdf"
+  },
+  {
+    "id": "hornos-lechoneros--horno-lechonero-3",
+    "slug": "horno-lechonero-3",
+    "title": "HORNO LECHONERO",
+    "category": "Hornos Lechoneros",
+    "categorySlug": "hornos-lechoneros",
+    "price": null,
+    "priceVariants": {
+      "SIN BANDEJAS": 3200000,
+      "CON BANDEJAS": 3600000
+    },
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "4 FLAUTAS, 2 ACUMULADORES Y 2 VALVULAS (SISTEMA DE GAS INDEPENDIENTE PARA CADA CAMARA)",
+      "CAPACIDAD": "1 BANDEJA EN CADA CAMARA (2)",
+      "MEDIDAS": "INTERNAS 46 CM X 113.5 CM X 32.5 CM. EXTERNAS 62.5CM X 120.5 CM X 166.5 CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO",
+      "ACCESORIOS": "RELOJ DE TEMPERATURA Y LLANTAS DE GOMA CON SEGURO"
+    },
+    "images": [
+      "/products/hornos-lechoneros/horno-lechonero-3-1.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "CATALOGO HORNOS LECHONEROS.pdf"
+  },
+  {
+    "id": "hornos-lechoneros--vitrina-lechonera",
+    "slug": "vitrina-lechonera",
+    "title": "VITRINA LECHONERA",
+    "category": "Hornos Lechoneros",
+    "categorySlug": "hornos-lechoneros",
+    "price": null,
+    "priceVariants": {
+      "CON": 2400000,
+      "BANDEJA": null
+    },
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "1 SENCILLO",
+      "CAPACIDAD": "1 BANDEJA",
+      "MEDIDAS": "VITRINA: 123CM X 63CM X 84CM BODEGA: 117CM X 57CM X 85CM TOTAL ALTO: 169CM BANDEJA: 101CM X 51CM X 5CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO",
+      "ACCESORIOS": "LLANTAS DE GOMA CON SEGURO, LAMPARA"
+    },
+    "images": [
+      "/products/hornos-lechoneros/vitrina-lechonera-1.webp"
+    ],
+    "sourcePage": 6,
+    "sourceFile": "CATALOGO HORNOS LECHONEROS.pdf"
+  },
+  {
+    "id": "hornos-multiusos--horno-multi-usos-mini",
+    "slug": "horno-multi-usos-mini",
+    "title": "HORNO MULTI USOS MINI",
+    "category": "Hornos Multiusos",
+    "categorySlug": "hornos-multiusos",
+    "price": 1200000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO 430 CAL. 22 Y PUERTA EN VIDRIO TEMPLADO DE 6 ML",
+      "COMBUSTIBLE": "MULTI GAS",
+      "QUEMADORES": "2 FLAUTAS",
+      "MEDIDAS": "62 CM X 95 CM X 70 CM",
+      "ACCESORIOS": "2 BANDEJAS, RELOJ DE TEMPERATURA, LLANTAS DE GOMA",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/hornos-multiusos/horno-multi-usos-mini-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO HORNOS MULTI USOS CONVENCIONALES.pdf"
+  },
+  {
+    "id": "hornos-multiusos--horno-multi-usos-en-hierro",
+    "slug": "horno-multi-usos-en-hierro",
+    "title": "HORNO MULTI USOS EN HIERRO",
+    "category": "Hornos Multiusos",
+    "categorySlug": "hornos-multiusos",
+    "price": 850000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "HIERRO Y ACERO EN EL FRONTAL Y VIDRIO TEMPLADO DE 6 ML",
+      "COMBUSTIBLE": "MULTI GAS",
+      "QUEMADORES": "2 FLAUTAS",
+      "ACCESORIOS": "2 BANDEJAS Y UN RELOJ DE TEMPERATURA",
+      "MEDIDAS": "INTERNAS:35 CM X 47CM X 22.5 CM. EXTERNAS:52 CM X 54 CM X 69.5 CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/hornos-multiusos/horno-multi-usos-en-hierro-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO HORNOS MULTI USOS CONVENCIONALES.pdf"
+  },
+  {
+    "id": "hornos-multiusos--horno-multi-usos-en-acero",
+    "slug": "horno-multi-usos-en-acero",
+    "title": "HORNO MULTI USOS EN ACERO",
+    "category": "Hornos Multiusos",
+    "categorySlug": "hornos-multiusos",
+    "price": 2400000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO 430 CAL. 22 Y PUERTA EN VIDRIO TEMPLADO DE 6 ML",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "2 FLAUTAS",
+      "ESPACIOS": "1 CAMARA CON CAPACIDAD PARA 4 BANDEJAS",
+      "ACCESORIOS": "RELOJ DE TEMPERATURA Y LLANTAS DE GOMA",
+      "MEDIDAS": "62 CM X 95 CM X 130 CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/hornos-multiusos/horno-multi-usos-en-acero-1.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "CATALOGO HORNOS MULTI USOS CONVENCIONALES.pdf"
+  },
+  {
+    "id": "hornos-panaderos--horno-panadero",
+    "slug": "horno-panadero",
+    "title": "HORNO PANADERO",
+    "category": "Hornos Panaderos",
+    "categorySlug": "hornos-panaderos",
+    "price": 1250000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "HIERRO PINTADO Y ACERO 430 CAL. 22 EN FRONTALES Y PUERTA EN VIDRIO TEMPLADO DE 6 ML",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "2 FLAUTAS",
+      "ESPACIOS": "2 CAMARAS",
+      "MEDIDAS": "INTERNAS 45 CM X 65.2 CM X 15 CM. EXTERNAS:62 CM X 73 CM X 116 CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO",
+      "ACCESORIOS": "RELOJ DE TEMPERATURA Y LLANTAS DE GOMA"
+    },
+    "images": [
+      "/products/hornos-panaderos/horno-panadero-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO HORNOS PANADEROS.pdf"
+  },
+  {
+    "id": "hornos-panaderos--horno-panadero-2",
+    "slug": "horno-panadero-2",
+    "title": "HORNO PANADERO",
+    "category": "Hornos Panaderos",
+    "categorySlug": "hornos-panaderos",
+    "price": 1780000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "2 FLAUTAS",
+      "ESPACIOS": "2 CAMARAS",
+      "MEDIDAS": "INTERNAS 45 CM X 85 CM X 15 CM.. EXTERNAS:62.5CM X 96.5 CM X 120CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO",
+      "ACCESORIOS": "RELOJ DE TEMPERATURA Y LLANTAS DE GOMA"
+    },
+    "images": [
+      "/products/hornos-panaderos/horno-panadero-2-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO HORNOS PANADEROS.pdf"
+  },
+  {
+    "id": "hornos-panaderos--horno-panadero-3",
+    "slug": "horno-panadero-3",
+    "title": "HORNO PANADERO",
+    "category": "Hornos Panaderos",
+    "categorySlug": "hornos-panaderos",
+    "price": 1350000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "HR Y ACERO 430 CAL. 22 EN FRONTALES",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "2 FLAUTAS",
+      "ESPACIOS": "3 CAMARAS",
+      "MEDIDAS": "INTERNAS 45CM X 85CM X 15 CM. EXTERNAS:63.3 CM X 94.3 CM X 130 CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO",
+      "ACCESORIOS": "LLANTAS DE GOMA"
+    },
+    "images": [
+      "/products/hornos-panaderos/horno-panadero-3-1.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "CATALOGO HORNOS PANADEROS.pdf"
+  },
+  {
+    "id": "hornos-panaderos--horno-panadero-4",
+    "slug": "horno-panadero-4",
+    "title": "HORNO PANADERO",
+    "category": "Hornos Panaderos",
+    "categorySlug": "hornos-panaderos",
+    "price": 1900000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "2 FLAUTAS",
+      "ESPACIOS": "3 CAMARAS",
+      "MEDIDAS": "INTERNAS 45 CM X 85 CM X 15 CM. EXTERNAS:62 CM X 96 CM X 145 CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO",
+      "ACCESORIOS": "LLANTAS DE GOMA"
+    },
+    "images": [
+      "/products/hornos-panaderos/horno-panadero-4-1.webp"
+    ],
+    "sourcePage": 5,
+    "sourceFile": "CATALOGO HORNOS PANADEROS.pdf"
+  },
+  {
+    "id": "hornos-panaderos--horno-panadero-5",
+    "slug": "horno-panadero-5",
+    "title": "HORNO PANADERO",
+    "category": "Hornos Panaderos",
+    "categorySlug": "hornos-panaderos",
+    "price": 1500000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "HR Y ACERO 430 CAL. 22 EN FRONTALES",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "3 FLAUTAS",
+      "ESPACIOS": "4 CAMARAS",
+      "MEDIDAS": "INTERNAS 45CM X 65CM X 15 CM. EXTERNAS:61.2 CM X 76 CM X 163.3 CM",
+      "COLOR": "GRIS CROMADO (PINTURA DE ALTA TEMPERATURA)",
+      "CATEGORIA": "EQUIPO",
+      "ACCESORIOS": "LLANTAS DE GOMA"
+    },
+    "images": [
+      "/products/hornos-panaderos/horno-panadero-5-1.webp"
+    ],
+    "sourcePage": 6,
+    "sourceFile": "CATALOGO HORNOS PANADEROS.pdf"
+  },
+  {
+    "id": "hornos-panaderos--horno-panadero-6",
+    "slug": "horno-panadero-6",
+    "title": "HORNO PANADERO",
+    "category": "Hornos Panaderos",
+    "categorySlug": "hornos-panaderos",
+    "price": 2400000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "3 FLAUTAS",
+      "ESPACIOS": "4 CAMARAS",
+      "MEDIDAS": "INTERNAS 45 CM X 85 CM X 15 CM. EXTERNAS:62 CM X 96 CM X 168.5 CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO",
+      "ACCESORIOS": "LLANTAS DE GOMA"
+    },
+    "images": [
+      "/products/hornos-panaderos/horno-panadero-6-1.webp"
+    ],
+    "sourcePage": 7,
+    "sourceFile": "CATALOGO HORNOS PANADEROS.pdf"
+  },
+  {
+    "id": "hornos-panaderos--horno-panadero-7",
+    "slug": "horno-panadero-7",
+    "title": "HORNO PANADERO",
+    "category": "Hornos Panaderos",
+    "categorySlug": "hornos-panaderos",
+    "price": 1700000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "HIERRO Y ACERO 430 CAL. 22 EN FRONTALES",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "4 FLAUTAS",
+      "ESPACIOS": "5 CAMARAS",
+      "MEDIDAS": "INTERNAS 45CM X 85CM X 16.5 CM. EXTERNAS:63 CM X 97 CM X 172.3 CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO",
+      "ACCESORIOS": "RELOJ DE TEMPERATUTA EN LA CAMARA SUP. Y LLANTAS DE GOMA"
+    },
+    "images": [
+      "/products/hornos-panaderos/horno-panadero-7-1.webp"
+    ],
+    "sourcePage": 8,
+    "sourceFile": "CATALOGO HORNOS PANADEROS.pdf"
+  },
+  {
+    "id": "hornos-para-pizza--horno-pizzero",
+    "slug": "horno-pizzero",
+    "title": "HORNO PIZZERO",
+    "category": "Hornos para Pizza",
+    "categorySlug": "hornos-para-pizza",
+    "price": 1500000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "HR Y ACERO 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "2 FLAUTAS",
+      "ESPACIOS": "1 CAMARA",
+      "ACCESORIOS": "LLANTAS DE GOMA",
+      "MEDIDAS": "INTERNAS60CM X 65CM X 15CM. EXTERNAS:74CM x 76CM X 131CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/hornos-para-pizza/horno-pizzero-1.webp",
+      "/products/hornos-para-pizza/horno-pizzero-2.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO HORNOS PARA PIZZA.pdf"
+  },
+  {
+    "id": "hornos-para-pizza--horno-pizzero-2",
+    "slug": "horno-pizzero-2",
+    "title": "HORNO PIZZERO",
+    "category": "Hornos para Pizza",
+    "categorySlug": "hornos-para-pizza",
+    "price": 1800000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "HR CON FRONTALES EN ACERO 430 CAL. 22, PLANCHA DE PIEDRA REFRACTARIA.",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "4 FLAUTAS",
+      "ESPACIOS": "2 CAMARAS",
+      "ACCESORIOS": "LLANTAS DE GOMA",
+      "MEDIDAS": "INTERNAS60CM X 60CM X 15CM. EXTERNAS:75CM x 75CM X 140CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/hornos-para-pizza/horno-pizzero-2-1.webp",
+      "/products/hornos-para-pizza/horno-pizzero-2-2.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO HORNOS PARA PIZZA.pdf"
+  },
+  {
+    "id": "hornos-para-pollos--horno-convencional-al-carbon",
+    "slug": "horno-convencional-al-carbon",
+    "title": "HORNO CONVENCIONAL AL CARBÓN",
+    "category": "Hornos para Pollos",
+    "categorySlug": "hornos-para-pollos",
+    "price": 9000000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO EN ACERO INOXIDABLE 430, CALIBRE 22",
+      "COMBUSTIBLE": "CARBÓN",
+      "QUEMADORES": "CARBONERA",
+      "CAPACIDAD": "18 POLLOS",
+      "SOPORTES": "3 ESPADAS PARA 6 POLLOS",
+      "ACCESORIOS": "BODEGA",
+      "MEDIDAS": "135 CM X 70 CM X 220 CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/hornos-para-pollos/horno-convencional-al-carbon-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO HORNOS PARA POLLOS.pdf"
+  },
+  {
+    "id": "hornos-para-pollos--horno-convencional-mixto",
+    "slug": "horno-convencional-mixto",
+    "title": "HORNO CONVENCIONAL MIXTO",
+    "category": "Hornos para Pollos",
+    "categorySlug": "hornos-para-pollos",
+    "price": null,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO EN ACERO INOXIDABLE 430, CALIBRE 22",
+      "COMBUSTIBLE": "GAS Y CARBÓN",
+      "QUEMADORES": "INFRA ROJOS Y CARBONERA",
+      "CAPACIDAD": "18 POLLOS",
+      "ACCESORIOS": "BODEGA",
+      "MEDIDAS": "135 CM X 70 CM X 220 CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/hornos-para-pollos/horno-convencional-mixto-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO HORNOS PARA POLLOS.pdf"
+  },
+  {
+    "id": "hornos-para-pollos--horno-de-lujo",
+    "slug": "horno-de-lujo",
+    "title": "HORNO DE LUJO",
+    "category": "Hornos para Pollos",
+    "categorySlug": "hornos-para-pollos",
+    "price": 12800000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INIXIDABLE430 CALIBRE 22",
+      "COMBUSTIBLE": "MULTI GAS",
+      "QUEMADORES": "INFRA ROJO",
+      "CAPACIDAD": "24 POLLOS",
+      "ACCESORIOS": "CAMPANA, BAÑO MARIA, RRECOLECTOR DE GRASA",
+      "MEDIDAS": "150CM X 80 CM X 220 CM",
+      "COLOR": "ROJO, NEGRO, AMARILLO, BLANCO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/hornos-para-pollos/horno-de-lujo-1.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "CATALOGO HORNOS PARA POLLOS.pdf"
+  },
+  {
+    "id": "hornos-para-pollos--horno-de-lujo-2",
+    "slug": "horno-de-lujo-2",
+    "title": "HORNO DE LUJO",
+    "category": "Hornos para Pollos",
+    "categorySlug": "hornos-para-pollos",
+    "price": 10500000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430, CALIBRE 20 Y VIDRIO TEMPLADO DE 6 ML",
+      "COMBUSTIBLE": "MULTI GAS",
+      "QUEMADORES": "4 INFRA ROJO Y UNA FLAUTA",
+      "CAPACIDAD": "12 POLLOS",
+      "SOPORTES": "3 ESPADAS",
+      "MEDIDAS": "136CM X 71.5 CM X 218CM ASADOR:89.5 CM X 58 CM X 82.5 CM BODEGA:89.5 CM X 60 CM X 46 CM SALIDA DE DUCTO:15CM X 15CM",
+      "COLOR": "CROMADO (VIDRIO PERSONALIZADO)",
+      "CATEGORIA": "EQUIPO",
+      "ACCESORIOS": "CAMPANA, BAÑO MARIA, RECOLECTOR DE GRASA, CAJON AUX. Y 1 ESPADA DE REPUESTO."
+    },
+    "images": [
+      "/products/hornos-para-pollos/horno-de-lujo-2-1.webp",
+      "/products/hornos-para-pollos/horno-de-lujo-2-2.webp"
+    ],
+    "sourcePage": 5,
+    "sourceFile": "CATALOGO HORNOS PARA POLLOS.pdf"
+  },
+  {
+    "id": "hornos-rotatorios-de-panaderia--horno-rotatorio",
+    "slug": "horno-rotatorio",
+    "title": "HORNO ROTATORIO",
+    "category": "Hornos Rotatorios de Panadería",
+    "categorySlug": "hornos-rotatorios-de-panaderia",
+    "price": 17500000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO",
+      "ENERGIA": "110 A 220 VOLTIOS",
+      "MOTOR": "1 CABALLO DE FUERZA",
+      "ESPACIOS": "3 ESCABILADEROS PARA 10 BANDEJAS",
+      "PESO": "600 KG",
+      "MEDIDAS": "105CM X 170CM X 200CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/hornos-rotatorios-de-panaderia/horno-rotatorio-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO HORNOS ROTATORIOS DE PANADERIA.pdf"
+  },
+  {
+    "id": "importados--amasadora-mojadora",
+    "slug": "amasadora-mojadora",
+    "title": "AMASADORA - MOJADORA",
+    "category": "Importados",
+    "categorySlug": "importados",
+    "price": 3400000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22",
+      "ENERGIA": "110 V.",
+      "MOTOR": "750 W",
+      "CAPACIDAD": "10 LIB.",
+      "MEDIDAS": "55 CM X 34 CM X 53 CM",
+      "PESO": "48 K.",
+      "COLOR": "NEGRO - ROSADO",
+      "CATEGORIA": "MAQUINARIA"
+    },
+    "images": [
+      "/products/importados/amasadora-mojadora-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO IMPORTADOS.pdf"
+  },
+  {
+    "id": "importados--peladora-de-papa",
+    "slug": "peladora-de-papa",
+    "title": "PELADORA DE PAPA",
+    "category": "Importados",
+    "categorySlug": "importados",
+    "price": 5500000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 Y 304 CAL. 22",
+      "MOTOR": "1HP",
+      "ENERGIA": "110 V.",
+      "CAPACIDAD": "½ @",
+      "GARANTIA": "1 AÑO EN MATERIALES Y SOLDADURAS",
+      "COLOR": "CROMADO"
+    },
+    "images": [
+      "/products/importados/peladora-de-papa-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO IMPORTADOS.pdf"
+  },
+  {
+    "id": "importados--crispetera-industrial",
+    "slug": "crispetera-industrial",
+    "title": "CRISPETERA INDUSTRIAL",
+    "category": "Importados",
+    "categorySlug": "importados",
+    "price": 1500000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO",
+      "PRODUCCION ESTIMADA": "4 KG X HORA",
+      "VOLTAJE": "110 V",
+      "POTENCIA": "1.3 KW",
+      "FRECUENCIA": "50/60 HZ",
+      "RANGO DE TEMPERATURA": "50°C -250°C",
+      "MEDIDAS": "50 CM X 35.8 CM X 67.5 CM",
+      "ACEITE": "50 ML",
+      "AZUCAR": "100G",
+      "MAIZ": "150G"
+    },
+    "images": [
+      "/products/importados/crispetera-industrial-1.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "CATALOGO IMPORTADOS.pdf"
+  },
+  {
+    "id": "importados--freidora-electrica",
+    "slug": "freidora-electrica",
+    "title": "FREIDORA ELECTRICA",
+    "category": "Importados",
+    "categorySlug": "importados",
+    "price": 750000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE",
+      "VOLTAJE": "110 V. RECARGABLE",
+      "CAPACIDAD": "12 L",
+      "POTENCIA": "1.5 KW",
+      "FRECUENCIA": "60 HZ",
+      "RANGO DE TEMPERATURA": "50°C - 250°C",
+      "MEDIDAS": "EXTERNAS:34CM X 63.5CM X 15CM INTERNOS:29.5CM X 49.5CM X 15CM.",
+      "GARANTIA": "1 AÑO",
+      "COLOR": "CROMADA",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/importados/freidora-electrica-1.webp"
+    ],
+    "sourcePage": 5,
+    "sourceFile": "CATALOGO IMPORTADOS.pdf"
+  },
+  {
+    "id": "importados--granizadora",
+    "slug": "granizadora",
+    "title": "GRANIZADORA",
+    "category": "Importados",
+    "categorySlug": "importados",
+    "price": 7800000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "TANQUES DE POLICARBONATO TRANSPARENTE, CHASIS Y CILINDROS EN ACERO INOXIDABLE",
+      "VOLTAJE": "110 V.",
+      "CAPACIDAD": "12 L CADA TANQUE",
+      "POTENCIA": "500 W",
+      "TEMPERATURA": "-2°C A -3°C",
+      "MEDIDAS": "43CM X 57CM X 85CM",
+      "ACCESORIOS": "MANUAL DE INSTRUCCIONES, VASELINA PARA LUBRICAR LOS EMPAQUES Y REPUESTOS DE EMPAQUES.",
+      "GARANTIA": "1 AÑO EN MOTOR (ASPAS NO TIENEN GARANTIA)",
+      "COLOR": "CROMADA CON NEGRO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/importados/granizadora-1.webp"
+    ],
+    "sourcePage": 6,
+    "sourceFile": "CATALOGO IMPORTADOS.pdf"
+  },
+  {
+    "id": "importados--dispensador-de-jugo",
+    "slug": "dispensador-de-jugo",
+    "title": "DISPENSADOR DE JUGO",
+    "category": "Importados",
+    "categorySlug": "importados",
+    "price": 3460000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "TANQUES DE POLICARBONATO TRANSPARENTE, CHASIS Y CILINDROS EN ACERO INOXIDABLE",
+      "VOLTAJE": "110 V.",
+      "CAPACIDAD": "12 L CADA TANQUE",
+      "POTENCIA": "ENTRE 500W Y 900W",
+      "TEMPERATURA": "-2°C A -3°C",
+      "MEDIDAS": "40CM X 48CM X 60CM",
+      "ACCESORIOS": "EMPAQUES DE SILICONA, TANQUES Y TAPAS, PALAS AGITADORAS, BANDEJAS RECOLECTORAS.",
+      "GARANTIA": "1 AÑO EN MOTOR",
+      "COLOR": "ROJO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/importados/dispensador-de-jugo-1.webp"
+    ],
+    "sourcePage": 7,
+    "sourceFile": "CATALOGO IMPORTADOS.pdf"
+  },
+  {
+    "id": "importados--batidora-electrica-renahouse",
+    "slug": "batidora-electrica-renahouse",
+    "title": "BATIDORA ELECTRICA RENAHOUSE",
+    "category": "Importados",
+    "categorySlug": "importados",
+    "price": 2200000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "TAZON EN ACERO INOXIDABLE",
+      "VOLTAJE": "110 V",
+      "CAPACIDAD": "7 LITROS",
+      "POTENCIA": "300 W",
+      "VELOCIDADES": "8 NIVELES DE VELOCIDAD AJUSTABLES",
+      "MEDIDAS": "18CM X 37CM X 43CM",
+      "ACCESORIOS": "TAPA ANTISALPICADURAS, GANCHO PARA AMASAR, PALETA PARA MEZCLAR Y BATIDOR DE GLOBO",
+      "GARANTIA": "1 AÑO",
+      "COLOR": "MORADA",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/importados/batidora-electrica-renahouse-1.webp",
+      "/products/importados/batidora-electrica-renahouse-2.webp"
+    ],
+    "sourcePage": 8,
+    "sourceFile": "CATALOGO IMPORTADOS.pdf"
+  },
+  {
+    "id": "importados--sanduchera-industrial",
+    "slug": "sanduchera-industrial",
+    "title": "SANDUCHERA INDUSTRIAL",
+    "category": "Importados",
+    "categorySlug": "importados",
+    "price": 4000000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE PLANCHA: LISA EN ALUMINIO FUNDIDO",
+      "VOLTAJE": "110 V",
+      "POTENCIA": "1550 W",
+      "TEMPERATURA": "HASTA 300°C",
+      "MEDIDAS": "35CM X 49CM X 29CM",
+      "GARANTIA": "1 AÑO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/importados/sanduchera-industrial-1.webp"
+    ],
+    "sourcePage": 9,
+    "sourceFile": "CATALOGO IMPORTADOS.pdf"
+  },
+  {
+    "id": "importados--sanduchera-industrial-2",
+    "slug": "sanduchera-industrial-2",
+    "title": "SANDUCHERA INDUSTRIAL",
+    "category": "Importados",
+    "categorySlug": "importados",
+    "price": 2100000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE PLANCHA: LISA EN HIERRO FUNDIDO CON RECUBRIMIENTO ANTIADHERENTE",
+      "VOLTAJE": "110 V",
+      "POTENCIA": "1550 W",
+      "TEMPERATURA": "HASTA 300°C",
+      "MEDIDAS": "42CM X 38.5CM X 21CM",
+      "GARANTIA": "1 AÑO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/importados/sanduchera-industrial-2-1.webp"
+    ],
+    "sourcePage": 10,
+    "sourceFile": "CATALOGO IMPORTADOS.pdf"
+  },
+  {
+    "id": "licuadoras--licuadora-industrial",
+    "slug": "licuadora-industrial",
+    "title": "LICUADORA INDUSTRIAL",
+    "category": "Licuadoras",
+    "categorySlug": "licuadoras",
+    "price": 1800000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL. 18",
+      "ENERGIA": "110 V.",
+      "MOTOR": "1 HP",
+      "CAPACIDAD": "5 LT",
+      "GARANTIA": "1 AÑO EN SOLDADURA Y DEFECTO DE FABRICA. NO APLICA POR MALA MANIPULACIÓN, DESCARGAS ELECTRICAS OCORTOS CIRCUITOS.",
+      "COLOR": "CROMADA",
+      "CATEGORIA": "MAQUINARIA"
+    },
+    "images": [
+      "/products/licuadoras/licuadora-industrial-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO LICUADORAS.pdf"
+  },
+  {
+    "id": "licuadoras--licuadora-industrial-2",
+    "slug": "licuadora-industrial-2",
+    "title": "LICUADORA INDUSTRIAL",
+    "category": "Licuadoras",
+    "categorySlug": "licuadoras",
+    "price": 2000000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL. 18",
+      "ENERGIA": "110 V.",
+      "MOTOR": "1 HP",
+      "CAPACIDAD": "10 LT",
+      "GARANTIA": "1 AÑO EN SOLDADURA Y DEFECTO DE FABRICA. NO APLICA POR MALA MANIPULACIÓN, DESCARGAS ELECTRICAS OCORTOS CIRCUITOS.",
+      "COLOR": "CROMADA",
+      "CATEGORIA": "MAQUINARIA"
+    },
+    "images": [
+      "/products/licuadoras/licuadora-industrial-2-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO LICUADORAS.pdf"
+  },
+  {
+    "id": "licuadoras--licuadora-industrial-3",
+    "slug": "licuadora-industrial-3",
+    "title": "LICUADORA INDUSTRIAL",
+    "category": "Licuadoras",
+    "categorySlug": "licuadoras",
+    "price": 2200000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL. 18",
+      "ENERGIA": "110 V.",
+      "MOTOR": "1 HP",
+      "CAPACIDAD": "15 LT",
+      "GARANTIA": "1 AÑO EN SOLDADURA Y DEFECTO DE FABRICA. NO APLICA POR MALA MANIPULACIÓN, DESCARGAS ELECTRICAS OCORTOS CIRCUITOS.",
+      "COLOR": "CROMADA",
+      "CATEGORIA": "MAQUINARIA"
+    },
+    "images": [
+      "/products/licuadoras/licuadora-industrial-3-1.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "CATALOGO LICUADORAS.pdf"
+  },
+  {
+    "id": "licuadoras--licuadora-industrial-4",
+    "slug": "licuadora-industrial-4",
+    "title": "LICUADORA INDUSTRIAL",
+    "category": "Licuadoras",
+    "categorySlug": "licuadoras",
+    "price": 2500000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL. 18",
+      "ENERGIA": "110 V.",
+      "MOTOR": "2 HP",
+      "CAPACIDAD": "20 LT",
+      "GARANTIA": "1 AÑO",
+      "COLOR": "CROMADA",
+      "CATEGORIA": "MAQUINARIA"
+    },
+    "images": [
+      "/products/licuadoras/licuadora-industrial-4-1.webp"
+    ],
+    "sourcePage": 5,
+    "sourceFile": "CATALOGO LICUADORAS.pdf"
+  },
+  {
+    "id": "licuadoras--licuadora-comercial",
+    "slug": "licuadora-comercial",
+    "title": "LICUADORA COMERCIAL",
+    "category": "Licuadoras",
+    "categorySlug": "licuadoras",
+    "price": 1200000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "VASO EN POLICARBONATO",
+      "ENERGIA": "110 V.",
+      "POTENCIA": "2.2 KW",
+      "VELOCIDAD": "VARIABLE Y A PULSO",
+      "CAPACIDAD": "4.5 LTS",
+      "FRECUENCIA": "60 HZ",
+      "RENDIMIENTO": "8 KGS/ MN",
+      "GARANTIA": "1 AÑO EN SOLDADURA Y DEFECTO DE FABRICA. NO APLICA POR MALA MANIPULACIÓN, DESCARGAS ELECTRICAS OCORTOS CIRCUITOS.",
+      "COLOR": "CROMADA",
+      "CATEGORIA": "MAQUINARIA"
+    },
+    "images": [
+      "/products/licuadoras/licuadora-comercial-1.webp"
+    ],
+    "sourcePage": 6,
+    "sourceFile": "CATALOGO LICUADORAS.pdf"
+  },
+  {
+    "id": "ollas--olla-a-presion",
+    "slug": "olla-a-presion",
+    "title": "OLLA A PRESIÓN",
+    "category": "Ollas",
+    "categorySlug": "ollas",
+    "price": 2400000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22",
+      "CAPACIDAD": "50 LT",
+      "COLOR": "GRIS CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/ollas/olla-a-presion-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO OLLAS.pdf"
+  },
+  {
+    "id": "ollas--olla-tamalera",
+    "slug": "olla-tamalera",
+    "title": "OLLA TAMALERA",
+    "category": "Ollas",
+    "categorySlug": "ollas",
+    "price": 2200000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "1 QUEMADOR Y 2 VALVULAS",
+      "CAPACIDAD": "80 TAMALES",
+      "MEDIDAS": "52CM X 92CM",
+      "ACCESORIOS": "LLANTAS EN GOMA",
+      "COLOR": "GRIS CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/ollas/olla-tamalera-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO OLLAS.pdf"
+  },
+  {
+    "id": "ollas--olla-industrial",
+    "slug": "olla-industrial",
+    "title": "OLLA INDUSTRIAL",
+    "category": "Ollas",
+    "categorySlug": "ollas",
+    "price": 7000000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "8 QUEMADORES Y 3 VALVULAS",
+      "CAPACIDAD": "2 BULTOS",
+      "MEDIDAS": "120CM X 70CM X 60CM",
+      "ACCESORIOS": "BANDEJA PERFORADA, LLANTAS EN GOMA",
+      "COLOR": "GRIS CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/ollas/olla-industrial-1.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "CATALOGO OLLAS.pdf"
+  },
+  {
+    "id": "planchas--plancha-para-arepas-boyacense",
+    "slug": "plancha-para-arepas-boyacense",
+    "title": "PLANCHA PARA AREPAS BOYACENSE",
+    "category": "Planchas",
+    "categorySlug": "planchas",
+    "price": 2900000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "2 FLAUTAS",
+      "ESPACIOS": "PLANCHA Y 6 DISCOS",
+      "VOLTAJE": "110 V.",
+      "MEDIDAS": "94CM X 69CM X 144CM",
+      "ACCESORIOS": "VITRINA DE 1 ESPACIO",
+      "COLOR": "GRIS CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/planchas/plancha-para-arepas-boyacense-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO PLANCHAS.pdf"
+  },
+  {
+    "id": "planchas--plancha",
+    "slug": "plancha",
+    "title": "PLANCHA",
+    "category": "Planchas",
+    "categorySlug": "planchas",
+    "price": 4500000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "2 ACUMULADORES Y 2 FLAUTAS",
+      "ESPACIOS": "PLANCHA EN PLATINA DE HR",
+      "MEDIDAS": "120CM x 60CM x 90CM",
+      "ACCESORIOS": "BANDEJA DE RESIDUOS",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/planchas/plancha-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO PLANCHAS.pdf"
+  },
+  {
+    "id": "tablas-de-acero--tabla-en-acero-carne",
+    "slug": "tabla-en-acero-carne",
+    "title": "TABLA EN ACERO (CARNE)",
+    "category": "Tablas de Acero",
+    "categorySlug": "tablas-de-acero",
+    "price": 110000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL.18",
+      "MEDIDAS": "45CM X 35CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "UTENSILIOS"
+    },
+    "images": [
+      "/products/tablas-de-acero/tabla-en-acero-carne-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO TABLAS DE ACERO.pdf"
+  },
+  {
+    "id": "tablas-de-acero--tabla-en-acero-verdura",
+    "slug": "tabla-en-acero-verdura",
+    "title": "TABLA EN ACERO (VERDURA)",
+    "category": "Tablas de Acero",
+    "categorySlug": "tablas-de-acero",
+    "price": 90000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL.18",
+      "MEDIDAS": "30CM X 40CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "UTENSILIOS"
+    },
+    "images": [
+      "/products/tablas-de-acero/tabla-en-acero-verdura-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO TABLAS DE ACERO.pdf"
+  },
+  {
+    "id": "tablas-de-acero--tabla-en-acero-fruta",
+    "slug": "tabla-en-acero-fruta",
+    "title": "TABLA EN ACERO (FRUTA)",
+    "category": "Tablas de Acero",
+    "categorySlug": "tablas-de-acero",
+    "price": 80000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL. 18",
+      "MEDIDAS": "30CM X 20CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "UTENSILIOS"
+    },
+    "images": [
+      "/products/tablas-de-acero/tabla-en-acero-fruta-1.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "CATALOGO TABLAS DE ACERO.pdf"
+  },
+  {
+    "id": "topineras--topinera-a-temperatura-ambiente",
+    "slug": "topinera-a-temperatura-ambiente",
+    "title": "TOPINERA A TEMPERATURA AMBIENTE",
+    "category": "Topineras",
+    "categorySlug": "topineras",
+    "price": 3400000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22 Y VIDRIO TEMPLADO DE 6 ML (ANTIESTORNUDO)",
+      "CAPACIDAD": "8 TOPINERAS Y BODEGA CON ENTREPAÑO",
+      "MEDIDAS": "130CM X 62CM X 133CM TOPINERA: 18CM X 16CM X 8CM BODEGA: 49CM X 126CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/topineras/topinera-a-temperatura-ambiente-1.webp",
+      "/products/topineras/topinera-a-temperatura-ambiente-2.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO TOPINERAS.pdf"
+  },
+  {
+    "id": "utensilios--cucharones",
+    "slug": "cucharones",
+    "title": "CUCHARONES",
+    "category": "Utensilios",
+    "categorySlug": "utensilios",
+    "price": 130000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22 Y MANGO EN TEFLON",
+      "MEDIDAS": "MANGO: 37CM DIAMETRO: 14CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "UTENSILIOS"
+    },
+    "images": [
+      "/products/utensilios/cucharones-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "CATALOGO UTENSILIOS.pdf"
+  },
+  {
+    "id": "utensilios--pala-mezcladora",
+    "slug": "pala-mezcladora",
+    "title": "PALA MEZCLADORA",
+    "category": "Utensilios",
+    "categorySlug": "utensilios",
+    "price": 130000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22 Y MANGO EN TEFLON",
+      "MEDIDAS": "MANGO: 37CM DIAMETRO: 13CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "UTENSILIOS"
+    },
+    "images": [
+      "/products/utensilios/pala-mezcladora-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "CATALOGO UTENSILIOS.pdf"
+  },
+  {
+    "id": "utensilios--palas-para-pizza",
+    "slug": "palas-para-pizza",
+    "title": "PALAS PARA PIZZA",
+    "category": "Utensilios",
+    "categorySlug": "utensilios",
+    "price": null,
+    "priceVariants": {
+      "GRD": 220000,
+      "PEQ": 1800000
+    },
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22 Y MANGO EN TEFLON",
+      "MEDIDAS": "GRANDE: MANGO: 64CM DIAMETRO: 50CM PEQUEÑA: MANGO:40 CM DIAMETRO: 35CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "UTENSILIOS"
+    },
+    "images": [
+      "/products/utensilios/palas-para-pizza-1.webp",
+      "/products/utensilios/palas-para-pizza-2.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "CATALOGO UTENSILIOS.pdf"
+  },
+  {
+    "id": "utensilios--pala-escurridor",
+    "slug": "pala-escurridor",
+    "title": "PALA ESCURRIDOR",
+    "category": "Utensilios",
+    "categorySlug": "utensilios",
+    "price": 130000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 430 CAL. 22",
+      "MEDIDAS": "MANGO: 38CM DIAMETRO: 16CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "UTENSILIOS"
+    },
+    "images": [
+      "/products/utensilios/pala-escurridor-1.webp"
+    ],
+    "sourcePage": 5,
+    "sourceFile": "CATALOGO UTENSILIOS.pdf"
+  },
+  {
+    "id": "utensilios--tabla-en-acero-carne",
+    "slug": "tabla-en-acero-carne",
+    "title": "TABLA EN ACERO (CARNE)",
+    "category": "Utensilios",
+    "categorySlug": "utensilios",
+    "price": 110000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL.18",
+      "MEDIDAS": "45CM X 35CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "UTENSILIOS"
+    },
+    "images": [
+      "/products/utensilios/tabla-en-acero-carne-1.webp"
+    ],
+    "sourcePage": 7,
+    "sourceFile": "CATALOGO UTENSILIOS.pdf"
+  },
+  {
+    "id": "utensilios--tabla-en-acero-verdura",
+    "slug": "tabla-en-acero-verdura",
+    "title": "TABLA EN ACERO (VERDURA)",
+    "category": "Utensilios",
+    "categorySlug": "utensilios",
+    "price": 90000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL.18",
+      "MEDIDAS": "30CM X 40CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "UTENSILIOS"
+    },
+    "images": [
+      "/products/utensilios/tabla-en-acero-verdura-1.webp"
+    ],
+    "sourcePage": 8,
+    "sourceFile": "CATALOGO UTENSILIOS.pdf"
+  },
+  {
+    "id": "utensilios--tabla-en-acero-fruta",
+    "slug": "tabla-en-acero-fruta",
+    "title": "TABLA EN ACERO (FRUTA)",
+    "category": "Utensilios",
+    "categorySlug": "utensilios",
+    "price": 80000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL. 18",
+      "MEDIDAS": "30CM X 20CM",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "UTENSILIOS"
+    },
+    "images": [
+      "/products/utensilios/tabla-en-acero-fruta-1.webp"
+    ],
+    "sourcePage": 9,
+    "sourceFile": "CATALOGO UTENSILIOS.pdf"
+  },
+  {
+    "id": "hornos-tipo-tunel--tunel-para-arepas-con-4-bandas-de",
+    "slug": "tunel-para-arepas-con-4-bandas-de",
+    "title": "TUNEL PARA AREPAS CON 4 BANDAS DE",
+    "category": "Hornos Tipo Túnel",
+    "categorySlug": "hornos-tipo-tunel",
+    "price": 17000000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "CAMPANA: ACERO INOXIDABLE 304 CAL. 22 ESTRUCTURA: ACERO INOXIDABLE 430",
+      "BANDA DE ASADO": "ACERO AL CARBONO",
+      "ENERGIA": "110 V.",
+      "GRADUADOR DE": "DE 0 A 16",
+      "CAPACIDAD": "3000 AREPAS POR HORA",
+      "QUEMADORES": "SISTEMA DE 6 INFRARROJOS CON VALVULAS Y PERILLAS INDEPENDIENTES.",
+      "MEDIDAS": "EXTERNAS: 280 CM X 80 CM X 140 CM. BANDA 2 MT. X 60 CM",
+      "COLOR": "CROMADO Y MALLA AMARILLA",
+      "CATEGORIA": "MAQUINARIA"
+    },
+    "images": [
+      "/products/hornos-tipo-tunel/tunel-para-arepas-con-4-bandas-de-1.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "HORNOS TIPO TUNEL.pdf"
+  },
+  {
+    "id": "hornos-tipo-tunel--tunel-para-arepas-con-2-bandas-de",
+    "slug": "tunel-para-arepas-con-2-bandas-de",
+    "title": "TUNEL PARA AREPAS CON 2 BANDAS DE",
+    "category": "Hornos Tipo Túnel",
+    "categorySlug": "hornos-tipo-tunel",
+    "price": 12500000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "CAMPANA: ACERO INOXIDABLE 304 CAL. 22 ESTRUCTURA: ACERO INOXIDABLE 430",
+      "BANDA DE ASADO": "ACERO AL CARBONO",
+      "ENERGIA": "110 V.",
+      "GRADUADOR DE": "DE 0 A 16",
+      "CAPACIDAD": "800 AREPAS POR HORA",
+      "QUEMADORES": "SISTEMA DE 5 INFRARROJOS CON VALVULAS Y PERILLAS INDEPENDIENTES.",
+      "MEDIDAS": "EXTERNAS: 180CM LARGO x 60CM ANCHO x 140CM BANDA 130CM. X30 CM",
+      "COLOR": "CROMADO Y MALLA AMARILLA",
+      "CATEGORIA": "MAQUINARIA"
+    },
+    "images": [
+      "/products/hornos-tipo-tunel/tunel-para-arepas-con-2-bandas-de-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "HORNOS TIPO TUNEL.pdf"
+  },
+  {
+    "id": "hornos-tipo-tunel--tunel-para-arepas-con-2-bandas-de-2",
+    "slug": "tunel-para-arepas-con-2-bandas-de-2",
+    "title": "TUNEL PARA AREPAS CON 2 BANDAS DE",
+    "category": "Hornos Tipo Túnel",
+    "categorySlug": "hornos-tipo-tunel",
+    "price": 14500000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "CAMPANA: ACERO INOXIDABLE 304 CAL. 22 ESTRUCTURA: ACERO INOXIDABLE 430",
+      "BANDA DE ASADO": "ACERO AL CARBONO",
+      "ENERGIA": "110 V.",
+      "GRADUADOR DE": "DE 0 A 16",
+      "CAPACIDAD": "1.400 A 1.600 AREPAS POR HORA",
+      "QUEMADORES": "SISTEMA DE 6 INFRARROJOS CON VALVULAS Y PERILLAS INDEPENDIENTES.",
+      "MEDIDAS": "EXTERNAS: 276CM LARGO x 71CM ANCHO x 134CM ALTO BANDA UTIL 220 CM X 50 CM",
+      "COLOR": "CROMADO Y MALLA AMARILLA",
+      "CATEGORIA": "MAQUINARIA"
+    },
+    "images": [
+      "/products/hornos-tipo-tunel/tunel-para-arepas-con-2-bandas-de-2-1.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "HORNOS TIPO TUNEL.pdf"
+  },
+  {
+    "id": "molinos--molino-corona-o-victoria",
+    "slug": "molino-corona-o-victoria",
+    "title": "MOLINO CORONA O VICTORIA",
+    "category": "Molinos",
+    "categorySlug": "molinos",
+    "price": 1200000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "HIERRO PINTADO",
+      "MOTOR": "1HP A 1730 RPM A 110 V",
+      "CAPACIDAD DE PRODUCTIVIDAD": "40 KG X HORA DEPENDIENDO EL PRODUCTO",
+      "MEDIDAS": "41.5CM X 49CM X 98CM",
+      "ACCESORIOS": "BANDEJA DE PLASTICO",
+      "COLOR": "PINTURA ELECTROSTÁTICA DE ALTA RESISTENCIA",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/molinos/molino-corona-o-victoria-1.webp",
+      "/products/molinos/molino-corona-o-victoria-2.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "MOLINOS.pdf"
+  },
+  {
+    "id": "molinos--molino-tk-12",
+    "slug": "molino-tk-12",
+    "title": "MOLINO TK 12",
+    "category": "Molinos",
+    "categorySlug": "molinos",
+    "price": 2200000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE",
+      "MOTOR": "110 - 220 V",
+      "CAPACIDAD DE PRODUCTIVIDAD": "40 KG X HORA DEPENDIENDO EL PRODUCTO",
+      "MEDIDAS": "41.5CM X 49CM X 98CM",
+      "ACCESORIOS": "BANDEJA DE PLASTICO",
+      "COLOR": "PINTURA ELECTROSTÁTICA DE ALTA RESISTENCIA",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/molinos/molino-tk-12-1.webp",
+      "/products/molinos/molino-tk-12-2.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "MOLINOS.pdf"
+  },
+  {
+    "id": "molinos--molino-industrial",
+    "slug": "molino-industrial",
+    "title": "MOLINO INDUSTRIAL",
+    "category": "Molinos",
+    "categorySlug": "molinos",
+    "price": 12500000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO 304 CAL. 18",
+      "ENERGIA": "110-220-330 V",
+      "MOTORES (2)": "(M1: 3 HP, M2: REDUCTOR 60-60)",
+      "CAPACIDAD DE PRODUCTIVIDAD": "150 KG POR HORA",
+      "CAPACIDAD DE LA TOLVA": "50 KG",
+      "DISCO": "#42",
+      "SISTEMA DE MOLIDO": "DOBLE TORNILLO SIN FIN",
+      "MEDIDAS": "110CM X 70CM X 120CM",
+      "ACCESORIOS": "1 CUCHILLA Y 1 DISCO Y LLANTAS DE GOMA",
+      "COLOR": "PLATEADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/molinos/molino-industrial-1.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "MOLINOS.pdf"
+  },
+  {
+    "id": "procesadores-de-carnes--sierra-para-cortar-hueso",
+    "slug": "sierra-para-cortar-hueso",
+    "title": "SIERRA PARA CORTAR HUESO",
+    "category": "Procesadores de Carnes",
+    "categorySlug": "procesadores-de-carnes",
+    "price": 5250000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO ANTIACIDO 304 CAL. 22",
+      "MOTOR": "2 HP",
+      "ENERGIA": "110V",
+      "CAPACIDAD DE CORTE": "CARNE CON HUESO, PESCADO CONGELADO Y ALIMENTOS DE GRAN DUREZA EN CUANTO A CARNES",
+      "MEDIDAS": "80CM X 80CM X 150CM",
+      "GARANTIA": "UN AÑO",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/procesadores-de-carnes/sierra-para-cortar-hueso-1.webp",
+      "/products/procesadores-de-carnes/sierra-para-cortar-hueso-2.webp"
+    ],
+    "sourcePage": 2,
+    "sourceFile": "PROCESADORES DE CARNES.pdf"
+  },
+  {
+    "id": "procesadores-de-carnes--horno-vertical-de-shawarma",
+    "slug": "horno-vertical-de-shawarma",
+    "title": "HORNO VERTICAL DE SHAWARMA",
+    "category": "Procesadores de Carnes",
+    "categorySlug": "procesadores-de-carnes",
+    "price": 3400000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL. 22",
+      "ENERGIA": "110V, 220V",
+      "COMBUSTIBLE": "MULTIGAS",
+      "QUEMADORES": "4 INFRAROJOS",
+      "CAPACIDAD": "ENTRE 20 KG A 70 KG",
+      "MEDIDAS": "52CM X 60CM X 80CM",
+      "GARANTIA": "UN AÑO",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/procesadores-de-carnes/horno-vertical-de-shawarma-1.webp"
+    ],
+    "sourcePage": 3,
+    "sourceFile": "PROCESADORES DE CARNES.pdf"
+  },
+  {
+    "id": "procesadores-de-carnes--tajadora-de-jamon-y-queso",
+    "slug": "tajadora-de-jamon-y-queso",
+    "title": "TAJADORA DE JAMON Y QUESO",
+    "category": "Procesadores de Carnes",
+    "categorySlug": "procesadores-de-carnes",
+    "price": 2700000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ACERO INOXIDABLE 304 CAL. 22",
+      "ENERGIA": "24V",
+      "CUCHILLA": "350 MM",
+      "ESPESOR DE CORTE": "REGULABLE DE 0 A 25 MM",
+      "CAPACIDAD DE CORTE": "ADMITE PIEZAS DE HASTA 305 X 250 MM",
+      "POTENCIA": "MOTOR DE 0.4 HP",
+      "MEDIDAS": "71.5CM X 55CM X 55CM BASE: 55.5CM X 42CM",
+      "GARANTIA": "UN AÑO",
+      "COLOR": "CROMADO",
+      "CATEGORIA": "EQUIPO"
+    },
+    "images": [
+      "/products/procesadores-de-carnes/tajadora-de-jamon-y-queso-1.webp"
+    ],
+    "sourcePage": 4,
+    "sourceFile": "PROCESADORES DE CARNES.pdf"
+  },
+  {
+    "id": "procesadores-de-carnes--moldeadora-de-hamburguesas",
+    "slug": "moldeadora-de-hamburguesas",
+    "title": "MOLDEADORA DE HAMBURGUESAS",
+    "category": "Procesadores de Carnes",
+    "categorySlug": "procesadores-de-carnes",
+    "price": 580000,
+    "priceVariants": null,
+    "specs": {
+      "MATERIALES": "ALUMINIO ANODIZADO Y ACERO INOXIDABLE",
+      "TIPOS DE CARNES": "RES, CERDO, POLLO O MEZCLAS VEGETALES.",
+      "CAPACIDAD": "6 A 10 HAMBURGUESAS POR HORA",
+      "MEDIDAS": "30CM X 31CM X 36CM",
+      "GARANTIA": "1 AÑO",
+      "COLOR": "BLANCO",
+      "CATEGORIA": "MAQUINARIA"
+    },
+    "images": [
+      "/products/procesadores-de-carnes/moldeadora-de-hamburguesas-1.webp",
+      "/products/procesadores-de-carnes/moldeadora-de-hamburguesas-2.webp"
+    ],
+    "sourcePage": 5,
+    "sourceFile": "PROCESADORES DE CARNES.pdf"
+  }
+]

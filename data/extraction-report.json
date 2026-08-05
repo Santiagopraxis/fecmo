@@ -1,0 +1,48 @@
+{
+  "missing_price": [
+    "hornos-para-pollos--horno-convencional-mixto"
+  ],
+  "missing_specs": [],
+  "no_images": [],
+  "unmatched_labels": [
+    {
+      "id": "asadores-y-parrillas--parrilla",
+      "labels": [
+        "COMBUSTIBLE  MULTIGAS (2 VALVULAS)"
+      ]
+    },
+    {
+      "id": "topineras--topinera-a-temperatura-ambiente",
+      "labels": [
+        "ACCESORIOS LLANTAS DE GOMA"
+      ]
+    },
+    {
+      "id": "hornos-tipo-tunel--tunel-para-arepas-con-4-bandas-de",
+      "labels": [
+        "GRADUADOR DE",
+        "PRODUCTIVA"
+      ]
+    },
+    {
+      "id": "hornos-tipo-tunel--tunel-para-arepas-con-2-bandas-de",
+      "labels": [
+        "GRADUADOR DE",
+        "PRODUCTIVA"
+      ]
+    },
+    {
+      "id": "hornos-tipo-tunel--tunel-para-arepas-con-2-bandas-de-2",
+      "labels": [
+        "GRADUADOR DE",
+        "PRODUCTIVA"
+      ]
+    },
+    {
+      "id": "molinos--molino-industrial",
+      "labels": [
+        "MOTORES (2)"
+      ]
+    }
+  ]
+}

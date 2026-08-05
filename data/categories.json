@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "asadores-y-parrillas",
+    "name": "Asadores y Parrillas",
+    "count": 3
+  },
+  {
+    "slug": "bandejas",
+    "name": "Bandejas",
+    "count": 3
+  },
+  {
+    "slug": "basculas",
+    "name": "Básculas",
+    "count": 3
+  },
+  {
+    "slug": "cuartos-de-crecimiento",
+    "name": "Cuartos de Crecimiento",
+    "count": 2
+  },
+  {
+    "slug": "deshidratadores",
+    "name": "Deshidratadores",
+    "count": 1
+  },
+  {
+    "slug": "estufas",
+    "name": "Estufas",
+    "count": 5
+  },
+  {
+    "slug": "fogones-de-lena",
+    "name": "Fogones de Leña",
+    "count": 4
+  },
+  {
+    "slug": "freidoras",
+    "name": "Freidoras",
+    "count": 6
+  },
+  {
+    "slug": "hornos-lechoneros",
+    "name": "Hornos Lechoneros",
+    "count": 4
+  },
+  {
+    "slug": "hornos-multiusos",
+    "name": "Hornos Multiusos",
+    "count": 3
+  },
+  {
+    "slug": "hornos-panaderos",
+    "name": "Hornos Panaderos",
+    "count": 7
+  },
+  {
+    "slug": "hornos-para-pizza",
+    "name": "Hornos para Pizza",
+    "count": 2
+  },
+  {
+    "slug": "hornos-para-pollos",
+    "name": "Hornos para Pollos",
+    "count": 4
+  },
+  {
+    "slug": "hornos-rotatorios-de-panaderia",
+    "name": "Hornos Rotatorios de Panadería",
+    "count": 1
+  },
+  {
+    "slug": "hornos-tipo-tunel",
+    "name": "Hornos Tipo Túnel",
+    "count": 3
+  },
+  {
+    "slug": "importados",
+    "name": "Importados",
+    "count": 9
+  },
+  {
+    "slug": "licuadoras",
+    "name": "Licuadoras",
+    "count": 5
+  },
+  {
+    "slug": "molinos",
+    "name": "Molinos",
+    "count": 3
+  },
+  {
+    "slug": "ollas",
+    "name": "Ollas",
+    "count": 3
+  },
+  {
+    "slug": "planchas",
+    "name": "Planchas",
+    "count": 2
+  },
+  {
+    "slug": "procesadores-de-carnes",
+    "name": "Procesadores de Carnes",
+    "count": 4
+  },
+  {
+    "slug": "tablas-de-acero",
+    "name": "Tablas de Acero",
+    "count": 3
+  },
+  {
+    "slug": "topineras",
+    "name": "Topineras",
+    "count": 1
+  },
+  {
+    "slug": "utensilios",
+    "name": "Utensilios",
+    "count": 7
+  }
+]
