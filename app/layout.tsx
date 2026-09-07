@@ -27,6 +27,9 @@ export const metadata: Metadata = {
   },
   description:
     "Soluciones industriales para emprendedores. Maquinaria industrial para el sector alimentario en Colombia: hornos, freidoras, ollas, molinos y más.",
+  other: {
+    "facebook-domain-verification": "nndm5vzgw1kukqaul3ufclkro8p44j",
+  },
 };
 
 export default function RootLayout({
